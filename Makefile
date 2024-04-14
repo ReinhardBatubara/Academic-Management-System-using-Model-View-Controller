@@ -1,5 +1,5 @@
 compile :
-	javac src/academic/model/*.java src/academic/drive/*.java src/academic/controller/*.java -d bin
+	javac src/academic/model/*.java src/academic/driver/*.java src/academic/controller/*.java -d bin
 
 test_01 :
-	cd bin && java academic.drive.Driver1
+	cd bin && java academic.driver.Driver1

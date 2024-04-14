@@ -1,4 +1,4 @@
-package MVC.src.academic.drive;
+package academic.driver;
 import academic.controller.*;
 import academic.model.*;
 import java.util.ArrayList;
